@@ -32,7 +32,7 @@ public class Cliente implements Serializable {
 	private String telefono;
 
 	private String beneficio;
-	//private String beneficio;
+	// private String beneficio;
 
 	public Long getId() {
 		return id;
