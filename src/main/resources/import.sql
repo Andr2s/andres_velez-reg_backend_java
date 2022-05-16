@@ -1,0 +1,2 @@
+insert into clientes (id,nombre,email,telefono,beneficio) VALUES (1,'ANDRES','andres.veliz@live.com','0983931224','descuento1');
+insert into clientes (id,nombre,email,telefono,beneficio) VALUES (2,'SOFIA','sofia.gualpa@live.com','098765432','descuento2');
